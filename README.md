@@ -55,13 +55,13 @@ graph TB
     N --> O
     O --> I
     
-    style A fill:#ffffff
-    style D fill:#f9f9f9
-    style G fill:#f9f9f9
-    style H fill:#f9f9f9
-    style I fill:#f9f9f9
-    style J fill:#ffffff
-    style L fill:#ffffff
+    style A fill:#f5f5f5,stroke:#333333,color:#222222
+    style D fill:#eaeaea,stroke:#333333,color:#222222
+    style G fill:#eaeaea,stroke:#333333,color:#222222
+    style H fill:#eaeaea,stroke:#333333,color:#222222
+    style I fill:#eaeaea,stroke:#333333,color:#222222
+    style J fill:#f5f5f5,stroke:#333333,color:#222222
+    style L fill:#f5f5f5,stroke:#333333,color:#222222
 ```
 
 ## 🔄 Request Flow Diagram
@@ -348,8 +348,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@pulkitagg17](https://github.com/pulkitagg17)
+- LinkedIn: [Pulkit Aggarwal](https://www.linkedin.com/in/pulkit-aggarwal921/)
 
 ## 🙏 Acknowledgments
 
