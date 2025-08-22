@@ -55,13 +55,13 @@ graph TB
     N --> O
     O --> I
     
-    style A fill:#e1f5fe
-    style D fill:#f3e5f5
-    style G fill:#e8f5e8
-    style H fill:#e8f5e8
-    style I fill:#e8f5e8
-    style J fill:#fff3e0
-    style L fill:#fce4ec
+    style A fill:#ffffff
+    style D fill:#f9f9f9
+    style G fill:#f9f9f9
+    style H fill:#f9f9f9
+    style I fill:#f9f9f9
+    style J fill:#ffffff
+    style L fill:#ffffff
 ```
 
 ## 🔄 Request Flow Diagram
